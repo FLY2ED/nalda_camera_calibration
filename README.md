@@ -190,3 +190,8 @@ python distortion_correction.py --image 왜곡된_이미지.jpg --calibration ca
 - `balance_comparison_*.png`: 다양한 balance 값에 대한 비교 이미지 (요청 시)
 
 ![왜곡 보정 전후 비교](distortion_correction_results/animation_test.gif)
+
+
+# 프로그램 동작 사진
+![calibration](screenshot/calibration.png)
+![distortion correction](screenshot/distortc.png)
